@@ -37,3 +37,6 @@ let baseAmount = amount / fromAmount; // USD base currency
 let convertedAmount = baseAmount * toAmount;
 
 console.log(convertedAmount);
+
+let a = 5;
+console.log(a);
